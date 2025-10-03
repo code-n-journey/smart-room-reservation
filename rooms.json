@@ -1,0 +1,7 @@
+{
+  "rooms": [
+    {"id": 1, "name": "Blue Room", "reserved": false},
+    {"id": 2, "name": "Red Room", "reserved": false},
+    {"id": 3, "name": "Green Room", "reserved": false}
+  ]
+}
